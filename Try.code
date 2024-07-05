@@ -1,0 +1,7 @@
+const x = 10;
+
+const y = 5;
+
+const z = "hello world";
+
+console.log(z);
